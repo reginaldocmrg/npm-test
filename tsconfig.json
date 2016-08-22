@@ -11,7 +11,7 @@
     "moduleResolution" : "node"
 },
 "files": [
-    "index.d.ts"
+    "index.ts"
 ],
   "exclude": [ 
     "node_modules" ]
