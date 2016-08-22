@@ -12,7 +12,7 @@
     "declaration": true
 },
 "files": [
-    "index.ts"
+    "reginaldocmrg-npm-test.ts"
 ],
   "exclude": [ 
     "node_modules" ]
