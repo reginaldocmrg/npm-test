@@ -1,5 +1,5 @@
 {
-  "name": "@reginaldocmrg/npm-test",
+  "name": "reginaldocmrg-npm-test",
   "version": "0.0.1",
   "description": "This is a npm test repository",
   "main": "index.js",
