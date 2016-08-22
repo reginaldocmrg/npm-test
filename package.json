@@ -1,6 +1,6 @@
 {
   "name": "reginaldocmrg-npm-test",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "This is a npm test repository",
   "main": "index.js",
   "scripts": {
