@@ -1,15 +1,4 @@
-﻿System.register(['./src/Math2'], function(exports_1, context_1) {
-    "use strict";
-    var __moduleName = context_1 && context_1.id;
-    return {
-        setters:[
-            function (Math2_1_1) {
-                exports_1({
-                    "Math2": Math2_1_1["Math2"]
-                });
-            }],
-        execute: function() {
-        }
-    }
-});
+﻿"use strict";
+var Math2_1 = require('./src/Math2');
+exports.Math2 = Math2_1.Math2;
 //# sourceMappingURL=src.js.map
