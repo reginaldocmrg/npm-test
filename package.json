@@ -1,0 +1,23 @@
+{
+  "name": "@reginaldocmrg/npm-test",
+  "version": "0.0.1",
+  "description": "This is a npm test repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reginaldocmrg/npm-test.git"
+  },
+  "keywords": [
+    "npm",
+    "test"
+  ],
+  "author": "Reginaldo Camargo Ribeiro <reginaldocmrg@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reginaldocmrg/npm-test/issues"
+  },
+  "homepage": "https://github.com/reginaldocmrg/npm-test#readme"
+}
